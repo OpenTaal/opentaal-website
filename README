@@ -1,0 +1,11 @@
+# opentaal-website
+
+    sudo apt-get install ruby ruby-dev
+    sudo gem install bundler jekyll
+    #jekyll new tmp
+    bundle exec jekyll build --watch
+    ####jekyll s
+    #add jekyll-sitemap to plugins in _config.yml
+    bundle install
+    bundle exec jekyll build --watch
+    ###jekyll s
